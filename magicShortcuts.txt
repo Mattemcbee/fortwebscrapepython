@@ -1,0 +1,7 @@
+python -m venv venv
+
+myenv\Scripts\activate
+
+python webcam_zones.py
+
+cd C:\Users\matth\OneDrive\Desktop\NucampFolder\Python
