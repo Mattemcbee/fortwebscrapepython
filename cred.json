@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "fortnite-422116",
+    "private_key_id": "98094018a60329efd47694aa21a5f7385d345e02",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCocMtYVDYhTCyv\nSn16pYove8cmhCxJKgwIbYfiIvLpHGXhlAl9wOqkPKl0pcbVkDwdaBjx7D4XGlvR\n8SZejWa4jjLoRR7m9+fqZ2wmIbxu5ahqsHOQ77n1xWzDZV+prQLgcCduo72YtNNg\naXjhPOzdoFdbeRjo+JU0EoXQo46VDLEUNX8rslBDz9huvb4DbEtVeuWbsy2ePz99\nGiMaprO6OCfzN0LdX2/wazrWKHxcPvxNwmVdroyD2QnX3h9dUzZ8Y3/JRUbUGWrI\n5Of+3Bo4fveX1eEXX4W3z/ttDSgmsrMBukBQd5+iu9R6Yy6arl6+jRikZqsRzO+/\n7jMusYabAgMBAAECggEAN8sE0AE03NqqgnWeEp36o7fQQ4XMVX/D9JazR8hjxatO\nY+XxLuJT1orxZl3y+pKIFwWAHcIu3uAwQd4q427a847GdgFPNxoui4ouXIMYM3OG\n0bAY141Qf4Qhfqd5hG52YXlE1nUOPCLJUUoebB0OKGsQBJCcG68bXOA1yuIiPGQq\nQf6e1Xy3IUjHsVnb0r/Lz7B4N0oRFZDCd64B9kGVrJ5426oPW342mJnkloGebpcW\n9E3SpK0BRX2rU/iPvGPkMOlAwy+XADLvPrBEo1VY3hEmEQXzPFsp20wV3sPaJ2VO\n5/l4fh5JjnH/wQbXMi+o5VkvUJ7XTSv3PLRClA6mwQKBgQDQxwVCo6wBaVWKU6UE\nG0yFj5tNa7EocnfBK+1iJdOtAgAD+vIT2EKGEvbTmRKiFq7fJz6N/5VcjToaOP03\nN46W1H8x1yBqTmRgg/iqUllCHOrGg70N09IySXGSxBnRGop2ETpO5PCkpOQjOQTq\nPk+VTKtuCkw8sRa5psRmOJDoQwKBgQDOih+rYhqhtdOW3c1tMtkseLKL+RLC/mDl\nGUVboPVqRdOZu2JxCrU0sXAYvY38zIC3vR/lraI+stkKrYDGUHZ0G2Xdb8H2zKFg\nSn6rWjhzx99twz6nXfyr/YLz+JpdGCUlDjaiCQAS2gtp5XKMVR6M0Uj222kRKqls\nSl5/7TKOyQKBgQC8jHDYvR4TbEC/m0j1S34xRP95zR+CqtYyU+yf7g+cOKkw7wp/\nF5kEos3dTWoBjsDBchzRexg2LKljk0JEAt24pBJ3PZTdzQxkCeuiTpqj1Z/GRqWP\nflRf6+oxJP831GNlu6tQIvydhPkwQkeJEVsoN8S+rXgqe7hNVCodM0rTJwKBgQC4\nTXbfJybeoHMUUA6M3+/9iCLDVtpQGFB8fyVuE16Lm42rxBOfDdAPGjsOSK/YIuDF\nlMVO3bdGva+BoLulu41IJF6sz5pE0es7Ep6f510yq+uLdcuF7A+Zphnh/Tg51F7p\nBxrnUqK3L805jN6/rQEa5XJ3nejOwcP3dxGGlDImSQKBgBWTNR10dnMwpOSt97bp\nRr2hy2IH+CVsJDe1ezpFRx3O82HDVhA945wucwnHZDx0+sSKnwigqCCHNVZxs3MC\nW0TS6G0TOcbaa9U9oDVx8x1AHZpaT5V9zU3+fwVKmLFfLNZDdddkx1F3gCdBeyjt\nuFZm1BOEUo4KS3pce2nY3MbH\n-----END PRIVATE KEY-----\n",
+    "client_email": "fortnitestoredata-1@fortnite-422116.iam.gserviceaccount.com",
+    "client_id": "103313904378191459904",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fortnitestoredata-1%40fortnite-422116.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
